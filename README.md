@@ -1,51 +1,33 @@
-<h1>Hi, I'm Mustafa! </h1>
-  
-  <h2>👨‍💻 Cyber Security Projects:</h2>
-  - 
-<br>Certificates</br>
-<b>Google IT Supoort Professional Certificate:</b> 
-<br>[Verify this certificate](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+<h2>Hi, I'm Mustafa! </h2>
 
+- <b><h2>CyberSeurity Projects:</h2></b>
+   - <b>Active Directory:</b> <br>[Step by Step Implementation of gourp policy ](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Project 2:</b> <br>[Wireshark](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Splunck:</b> <br>[Use splunck in homelab](https://www.credly.com/badges/649f5a5d-ff87-4a54-a330-63867b522fd4/linked_in_profile)</br>
+   - <b>Project 4:</b> <br>[Homlab](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+----------------------------------------------------------------------------------
+- <b><h2>Certificates:</h2></b>
+   - <b>Google IT Supoort Professional Certificate:</b> <br>[Verify this certificate](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Google IT Automation with Python:</b> <br>[Verify this certificate](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Comptia Security Plus:</b> <br>[Verify this certificate](https://www.credly.com/badges/649f5a5d-ff87-4a54-a330-63867b522fd4/linked_in_profile)</br>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
- 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h3>📺 Popular YouTube Videos</h3>
 
-<h2>📺 Popular YouTube Videos</h2>
+- [Training videos here...](https://www.youtube.com/channel/UCgzwUuBVFTr75TkqbFhsM_w)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-
-<h2> 🤳 Connect with me:</h2>
+<h3> Connect with me:</h3>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://www.linkedin.com/in/mustafa-noorzaiy/
+[youtube]: https://www.youtube.com/channel/UCgzwUuBVFTr75TkqbFhsM_w
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on youtube channel 
+
 -->
