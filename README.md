@@ -5,11 +5,11 @@
    - <b>Nmap</b> <br>https://github.com/Mustafa-noorzaiy/Nmap</br>
    - <b>Nessus</b> <br>https://github.com/Mustafa-noorzaiy/Nessus</br>
    - <b>Splunck:</b> <br>[Use splunck in homelab](https://www.credly.com/badges/649f5a5d-ff87-4a54-a330-63867b522fd4/linked_in_profile)</br>
-   - <b>Project 4:</b> <br>[Homlab](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Project 4:</b> <br>[HomeLab](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
 ----------------------------------------------------------------------------------
 - <b><h2>Certificates:</h2></b>
    - <b>Google IT Supoort Professional Certificate:</b> <br>[Verify this certificate](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
-   - <b>Google IT Automation with Python:</b> <br>[Verify this certificate](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Google IT Automation with Python:</b> <br>[Verify this certificate](https://coursera.org/share/18091c505e3e5dbc6fda09179883a1a2)</br>
    - <b>Comptia Security Plus:</b> <br>[Verify this certificate](https://www.credly.com/badges/649f5a5d-ff87-4a54-a330-63867b522fd4/linked_in_profile)</br>
 
 <h3>📺 Popular YouTube Videos</h3>
