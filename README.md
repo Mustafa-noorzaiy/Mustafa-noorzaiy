@@ -1,7 +1,7 @@
 <h2>Hi, I'm Mustafa! </h2>
 
 - <b><h2>CyberSeurity Projects:</h2></b>
-   - <b>Active Directory:</b> <br>[Step by Step Implementation of gourp policy ](https://coursera.org/share/baf94df39dc51f251c6d26461044044b)</br>
+   - <b>Windows Server 2022:</b> <br>[Step by Step Implementation of Active Directory and Gourp Policy ](https://github.com/Mustafa-noorzaiy/AD-GPO)</br>
    - <b>Nmap</b> <br>[Used for open ports](https://github.com/Mustafa-noorzaiy/Nmap)</br>
    - <b>Nessus</b> <br>[Used for vulnerability management](https://github.com/Mustafa-noorzaiy/Nessus)</br>
    - <b>Splunck:</b> <br>[Use splunck in homelab](https://www.credly.com/badges/649f5a5d-ff87-4a54-a330-63867b522fd4/linked_in_profile)</br>
