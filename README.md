@@ -4,6 +4,7 @@
    - <b>Windows Server 2022:</b> <br>[Step by Step Implementation of Active Directory and Gourp Policy ](https://github.com/Mustafa-noorzaiy/AD-GPO)</br>
    - <b>Nmap</b> <br>[Used for open ports](https://github.com/Mustafa-noorzaiy/Nmap)</br>
    - <b>Nessus</b> <br>[Used for vulnerability management](https://github.com/Mustafa-noorzaiy/Nessus)</br>
+   - <b>Splunk </b> <br>[Verify](https://github.com/Mustafa-noorzaiy/Splunk)</br>
    - <b>Wazuh SIEM</b> <br>[Used as SIEM 'FIM & Vulnerability detection'](https://github.com/Mustafa-noorzaiy/Wazuh-SIEM)</br>
    - <b>Home Lab </b> <br>[Verify](https://github.com/Mustafa-noorzaiy/HomeLab)</br>
   
